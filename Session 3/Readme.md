@@ -12,7 +12,7 @@ To properly explain the difference there will be examples.
 
 ### Fundamentals Part 3
 #### Solution to previous week's task
-
+[Logical and Booleans Statements](https://github.com/KeaganKozlowski/python-course/blob/main/Session%203/Session%202%20-%20Logical%20%2B%20Boolean.py)
 #### Resources from PowerPoint
 
 
