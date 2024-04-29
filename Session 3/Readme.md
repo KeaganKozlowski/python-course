@@ -3,6 +3,7 @@
 
 ### Understanding more of Python
 In this secion we will be exploring more about Python to understand why certain syntax works and other do not.
+
 [Powerpoints](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/PowerPoints)
 #### Errors
 To properly expalin the difference there will be examples.
