@@ -11,7 +11,7 @@ To properly expalin the difference there will be examples.
 #### Equal Signs
 To properly explain the difference there will be examples.
 
-
+[Equal Examples](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/Equals%20Signs)
 ### Fundamentals Part 3
 #### Solution to previous week's task
 [Logical and Booleans Statements](https://github.com/KeaganKozlowski/python-course/blob/main/Session%203/Session%202%20-%20Logical%20%2B%20Boolean.py)
