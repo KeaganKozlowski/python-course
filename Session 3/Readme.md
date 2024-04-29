@@ -6,6 +6,7 @@ In this secion we will be exploring more about Python to understand why certain 
 #### Errors
 To properly expalin the difference there will be examples.
 
+[Error Examples](https://github.com/KeaganKozlowski/python-course/blob/main/Session%203/Types%20of%20Errors/Errors.md)
 #### Equal Signs
 To properly explain the difference there will be examples.
 
