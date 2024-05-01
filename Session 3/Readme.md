@@ -19,7 +19,7 @@ To properly explain the difference there will be examples.
 #### Resources from PowerPoint
 [Powerpoints](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/PowerPoints/Slides.md)
 
-[While Loops](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/PowerPoints/While%20Loop%20Examples)
+[While Loops](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/PowerPoints/While%20Loop%20Examples/While%loops.md)
 
 [For Loops](https://github.com/KeaganKozlowski/python-course/tree/main/Session%203/PowerPoints/For%20Loop%20Examples)
 
