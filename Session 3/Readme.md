@@ -24,4 +24,12 @@ To properly explain the difference there will be examples.
 [For Loops](https://github.com/KeaganKozlowski/python-course/blob/main/Session%203/PowerPoints/For%20Loop%20Examples/For%20loops.md)
 
 [Lists](https://github.com/KeaganKozlowski/python-course/blob/main/Session%203/PowerPoints/List%20Example/Lists.md)
+##### Homework Task
+Please do the following:
+1)You have a list of numbers
+2)Create two variables one to store the count of odd and the other the count of even numbers
+3)Iterate throught the list checking if each number is even or odd and increasing the counters
+4)Print both counters
+
+
 
