@@ -5,6 +5,7 @@
 
 ## Functions already seen
 [Print](https://github.com/KeaganKozlowski/python-course/blob/main/Session%204/Resources/Functions/Print.py)
+
 [Input](https://github.com/KeaganKozlowski/python-course/blob/main/Session%204/Resources/Functions/Input.py)
 
 ## Calling functions
