@@ -12,5 +12,5 @@
 ### Additional Support
 To be added
 ## Homework Task
-To be added
+Go around and play around with your library of choice or a function you think would be useful and we'll go around next week seeing what you did.
 
