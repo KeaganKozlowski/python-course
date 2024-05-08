@@ -8,3 +8,4 @@
 [Code and Examples](https://github.com/KeaganKozlowski/python-course/blob/main/Session%204/Resources/Functions/ReadMe.md)
 
 ## Python Explainations
+[Code and Examples](https://github.com/KeaganKozlowski/python-course/blob/main/Session%204/Resources/Explained/ReadMe.md)
