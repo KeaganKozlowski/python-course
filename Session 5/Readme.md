@@ -6,7 +6,7 @@
 - Variables
 - Operators
 #### Resources
-
+[Slides + Code](https://github.com/KeaganKozlowski/python-course/blob/main/Session%205/Session%201%20Recap/Readme.md)
 #### Additional Resources
 
 ## Session 2
@@ -17,7 +17,7 @@
 - Lists
 - Bitwise
 #### Resources
-
+[Slides + Code](https://github.com/KeaganKozlowski/python-course/blob/main/Session%205/Session%202%20Recap/Readme.md)
 #### Additional Resources
 
 
@@ -29,7 +29,7 @@
 - For Loops
 - Lists Continued
 #### Resources
-
+[Slides + Code](https://github.com/KeaganKozlowski/python-course/blob/main/Session%205/Session%203%20Recap/Readme.md)
 #### Additional Resources
 
 
@@ -41,7 +41,7 @@
   - Pandas
   - Matplotlib
 #### Resources
-
+[Slides + Code](https://github.com/KeaganKozlowski/python-course/blob/main/Session%205/Session%204%20Recap/Readme.md)
 #### Additional Resources
 
 
