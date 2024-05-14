@@ -46,13 +46,13 @@
 
 
 ## Thonny Walkthrough
-
+[Slides and Code]
 ## Thonny Explaination
-
+[Slides and Code]
 ## Python Explained
-
+[Slides and Code]
 ## Python Explained 2
-
+[Slides and Code]
 ## Homework solution
-
+[Example Solution](https://github.com/KeaganKozlowski/python-course/tree/main/Session%205/Resources/Readme.md)
 
